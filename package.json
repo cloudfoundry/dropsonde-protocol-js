@@ -1,6 +1,6 @@
 {
   "name": "dropsonde-protocol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:cloudfoundry/dropsonde-protocol-js.git",
   "license": "MIT",
