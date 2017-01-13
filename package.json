@@ -1,5 +1,5 @@
 {
-  "name": "dropsonde-protocol-js",
+  "name": "dropsonde-protocol",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:cloudfoundry/dropsonde-protocol-js.git",
